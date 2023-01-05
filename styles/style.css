@@ -115,3 +115,21 @@ vgf{
 .set{
     gap: 20px;
 }
+.bag{
+    text-align: center;
+    font-size: larger;
+    font: bolder;
+    margin-top: 100px;
+    background-color: lightslategray;
+}
+.tnx{
+    display: flex;
+    justify-content: space-around;
+    background-color: saddlebrown;
+}
+her{
+    padding-left: 100px;
+}
+.his{
+    padding-right: 100px;
+}
