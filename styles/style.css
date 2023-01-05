@@ -1,0 +1,117 @@
+*{
+margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header and navigation styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin: 50px;
+}
+.Sectiontitle{
+    font-size: 50px;
+
+
+}
+.aboutme{
+    background-color: cadetblue;
+    padding: 80px 40px;
+    margin: 0 500px;
+    text-align: center;
+}
+.zex{
+    font-size: 30px;
+    align-items: center;
+}
+.headof{
+    background-color: white;
+background-image: url(../bgimage.png); 
+background-repeat: no-repeat;
+background-position: right;   
+}
+.navtitle{
+    font-weight: 1000;
+    font-size: 45px
+}
+.textcolor{
+    color: darkcyan;
+}
+.Buttondesin{
+    background-color: chocolate;
+    height: 500;
+    padding: 20px;
+}
+/* Banner styles */
+.bannerstyles{
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+}
+.bannertitle{
+    font-weight: 700;
+    font-size: 30px;
+}
+.banner-subtitle{
+    font-weight: 1000;
+    font-size: 100px;
+}
+.nowday{
+    font-weight: 200;
+    font-size: 20px;
+}
+.zbutton{
+    background-color: darkcyan;
+    font-size: 30px;
+    padding: 10px;
+}
+.hub{
+display: flex;
+position: absolute;
+justify-content: space-between;
+margin: 10px;
+
+}
+.box{
+    margin: 0 20px;
+    text-align: center;
+    font-size: 15px;
+    
+}
+.gaz{
+font-size: 50px;
+text-align: center;
+margin-top: 100px;
+}
+.hhe{
+    font: bolder;
+    font-size: 40px;
+}
+.hza{
+    font-size: smaller;
+}
+.hhh{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 300px;
+    margin-left: 300px;
+    gap: 20px;
+}
+bbf{
+    margin-left: 500px;
+    padding: 30px;
+    gap: 20px;
+}
+vgf{
+    margin-right: 500px;
+}
+.set{
+    gap: 20px;
+}
